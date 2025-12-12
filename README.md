@@ -1,5 +1,7 @@
 #CS4450 Parser Project 
 
+Hello, we are Sam and Martin, and we are team Front Row! 
+
 Our Python parser was built using ANTLR. 
 
 To generate the parse tree for this project, follow these steps: 
